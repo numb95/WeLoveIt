@@ -10,9 +10,10 @@ English README | [简体中文说明](https://github.com/numb95/WeLoveIt/blob/ma
 
 > **WeLoveIt** is a **clean**, **elegant** but **advanced** blog theme for [Hugo](https://gohugo.io/).
 
-It is based on the original [LeaveIt Theme](https://github.com/liuzc/LeaveIt) and [KeepIt Theme](https://github.com/Fastbyte01/KeepIt).
+It is based on the original [LeaveIt Theme](https://github.com/liuzc/LeaveIt)
+and [KeepIt Theme](https://github.com/Fastbyte01/KeepIt and  [LoveIt Theme](https://github.com/dillonzq/LoveIt)
 
-Since the three themes have a similar look, if you have questions about their differences,
+Since the four themes have a similar look, if you have questions about their differences,
 read [Why choose WeLoveIt](#why-choose-WeLoveIt) so that you can choose the one that works best for you.
 
 ![Hugo Theme WeLoveIt](https://github.com/numb95/WeLoveIt/raw/master/images/Apple-Devices-Preview.png)
@@ -26,6 +27,7 @@ To see this theme in action, here is a live [demo site](https://hugoWeLoveIt.com
 Compared to the original LeaveIt theme and the KeepIt theme, the WeLoveIt theme has the following modifications.
 
 * Custom **Header**
+* Native **RTL** Support
 * Custom **CSS Style**
 * A new **home page**, compatible with the latest version of Hugo
 * A lot of **style detail adjustments,** including color, font size, margins, code preview style
