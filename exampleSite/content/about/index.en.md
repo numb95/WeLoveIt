@@ -1,8 +1,8 @@
 ---
-title: "About LoveIt"
+title: "About WeLoveIt"
 date: 2019-08-02T11:04:49+08:00
 draft: false
-description: "About LoveIt"
+description: "About WeLoveIt"
 images: ["/Apple-Devices-Preview.png"]
 
 lightgallery: true
@@ -12,18 +12,18 @@ math:
 ---
 
 {{< style "img { height: 1.25rem; }" >}}
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/dillonzq/LoveIt?style=flat-square)](https://github.com/dillonzq/LoveIt/releases)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/dillonzq/WeLoveIt?style=flat-square)](https://github.com/numb95/WeLoveIt/releases)
 [![Hugo](https://img.shields.io/badge/Hugo-%5E0.62.0-ff4088?style=flat-square&logo=hugo)](https://gohugo.io/)
-[![License](https://img.shields.io/github/license/dillonzq/LoveIt?style=flat-square)](https://github.com/dillonzq/LoveIt/blob/master/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/dillonzq/LoveIt?style=social)](https://github.com/dillonzq/LoveIt)
-[![GitHub forks](https://img.shields.io/github/forks/dillonzq/LoveIt?style=social)](https://github.com/dillonzq/LoveIt/fork)
+[![License](https://img.shields.io/github/license/dillonzq/WeLoveIt?style=flat-square)](https://github.com/numb95/WeLoveIt/blob/master/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/dillonzq/WeLoveIt?style=social)](https://github.com/numb95/WeLoveIt)
+[![GitHub forks](https://img.shields.io/github/forks/dillonzq/WeLoveIt?style=social)](https://github.com/numb95/WeLoveIt/fork)
 {{< /style >}}
 
-> [:(far fa-kiss-wink-heart fa-fw): LoveIt](https://github.com/dillonzq/LoveIt) is a **clean**, **elegant** but **advanced** blog theme for [Hugo](https://gohugo.io/) developed by {{< person "https://dillonzq.com/" Dillon "author of the LoveIt theme" "/Dillon.png" >}}.
+> [:(far fa-kiss-wink-heart fa-fw): WeLoveIt](https://github.com/numb95/WeLoveIt) is a **clean**, **elegant** but **advanced** blog theme for [Hugo](https://gohugo.io/) developed by {{< person "https://dillonzq.com/" Dillon "author of the WeLoveIt theme" "/Dillon.png" >}}.
 >
 > It is based on the original [LeaveIt Theme](https://github.com/liuzc/LeaveIt) and [KeepIt Theme](https://github.com/Fastbyte01/KeepIt).
 
-![Hugo Theme LoveIt](/images/Apple-Devices-Preview.png "Hugo Theme LoveIt")
+![Hugo Theme WeLoveIt](/images/Apple-Devices-Preview.png "Hugo Theme WeLoveIt")
 
 ## Features
 
@@ -90,9 +90,9 @@ math:
 
 ## License
 
-LoveIt is licensed under the **MIT** license.
+WeLoveIt is licensed under the **MIT** license.
 
-Check the [LICENSE file](https://github.com/dillonzq/LoveIt/blob/master/LICENSE) for details.
+Check the [LICENSE file](https://github.com/numb95/WeLoveIt/blob/master/LICENSE) for details.
 
 ## Special Thanks
 

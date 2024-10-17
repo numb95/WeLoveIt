@@ -6,7 +6,7 @@ lastmod: 2020-06-12T10:10:13+03:00
 draft: false
 author: "Dillon"
 authorLink: "https://dillonzq.com"
-description: "LoveIt theme provides multiple shortcodes on top of built-in ones in Hugo."
+description: "WeLoveIt theme provides multiple shortcodes on top of built-in ones in Hugo."
 images: []
 resources:
 - name: "featured-image"
@@ -23,7 +23,7 @@ math:
   enable: true
 ---
 
-**LoveIt** theme provides multiple shortcodes on top of built-in ones in Hugo.
+**WeLoveIt** theme provides multiple shortcodes on top of built-in ones in Hugo.
 
 <!--more-->
 
@@ -333,14 +333,14 @@ Example `script` input:
 
 ```markdown
 {{</* script */>}}
-console.log('Hello LoveIt!');
+console.log('Hello WeLoveIt!');
 {{</* /script */>}}
 ```
 
 You can see the output in the console of the developer tool.
 
 {{< script >}}
-console.log('Hello LoveIt!');
+console.log('Hello WeLoveIt!');
 {{< /script >}}
 
 ## 12 raw
@@ -375,10 +375,10 @@ Block Formula:
 {{< /raw >}}
 
 {{< script >}}
-console.log('Hello LoveIt!');
+console.log('Hello WeLoveIt!');
 {{< /script >}}
 
-This renders as {{< person "https://dillonzq.com/" Dillon "author of the LoveIt theme" >}}.
+This renders as {{< person "https://dillonzq.com/" Dillon "author of the WeLoveIt theme" >}}.
 Raw content using Markdown syntax: {{< raw >}}**Hello**{{< /raw >}}
 
 ## 13 person
@@ -418,7 +418,7 @@ This renders as {{< person url="https://evgenykuznetsov.org" name="Evgeny Kuznet
 Without an explicitly given picture, a generic icon is used. This input:
 
 ```markdown
-{{</* person "https://dillonzq.com/" Dillon "author of the LoveIt theme" */>}}
+{{</* person "https://dillonzq.com/" Dillon "author of the WeLoveIt theme" */>}}
 ```
 
-This renders as {{< person "https://dillonzq.com/" Dillon "author of the LoveIt theme" >}}.
+This renders as {{< person "https://dillonzq.com/" Dillon "author of the WeLoveIt theme" >}}.

@@ -1,29 +1,29 @@
-# LoveIt Theme | Hugo [![Netlify Status](https://api.netlify.com/api/v1/badges/e60303f2-862c-4342-bf59-7c9adb10812e/deploy-status)](https://app.netlify.com/sites/hugo-loveit/deploys)
+# WeLoveIt Theme | Hugo [![Netlify Status](https://api.netlify.com/api/v1/badges/e60303f2-862c-4342-bf59-7c9adb10812e/deploy-status)](https://app.netlify.com/sites/hugo-WeLoveIt/deploys)
 
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/dillonzq/LoveIt?style=flat-square)](https://github.com/dillonzq/LoveIt/releases)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/dillonzq/WeLoveIt?style=flat-square)](https://github.com/numb95/WeLoveIt/releases)
 [![Hugo](https://img.shields.io/badge/Hugo-%5E0.62.0-ff4088?style=flat-square&logo=hugo)](https://gohugo.io/)
-[![License](https://img.shields.io/github/license/dillonzq/LoveIt?style=flat-square)](https://github.com/dillonzq/LoveIt/blob/master/LICENSE)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=dillonzq_LoveIt&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=dillonzq_LoveIt)
-[![CircleCI](https://circleci.com/gh/dillonzq/LoveIt/tree/master.svg?style=svg)](https://circleci.com/gh/dillonzq/LoveIt/tree/master)
+[![License](https://img.shields.io/github/license/dillonzq/WeLoveIt?style=flat-square)](https://github.com/numb95/WeLoveIt/blob/master/LICENSE)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=dillonzq_WeLoveIt&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=dillonzq_WeLoveIt)
+[![CircleCI](https://circleci.com/gh/dillonzq/WeLoveIt/tree/master.svg?style=svg)](https://circleci.com/gh/dillonzq/WeLoveIt/tree/master)
 
-English README | [简体中文说明](https://github.com/dillonzq/LoveIt/blob/master/README.zh-cn.md)
+English README | [简体中文说明](https://github.com/numb95/WeLoveIt/blob/master/README.zh-cn.md)
 
-> **LoveIt** is a **clean**, **elegant** but **advanced** blog theme for [Hugo](https://gohugo.io/).
+> **WeLoveIt** is a **clean**, **elegant** but **advanced** blog theme for [Hugo](https://gohugo.io/).
 
 It is based on the original [LeaveIt Theme](https://github.com/liuzc/LeaveIt) and [KeepIt Theme](https://github.com/Fastbyte01/KeepIt).
 
 Since the three themes have a similar look, if you have questions about their differences,
-read [Why choose LoveIt](#why-choose-loveit) so that you can choose the one that works best for you.
+read [Why choose WeLoveIt](#why-choose-WeLoveIt) so that you can choose the one that works best for you.
 
-![Hugo Theme LoveIt](https://github.com/dillonzq/LoveIt/raw/master/images/Apple-Devices-Preview.png)
+![Hugo Theme WeLoveIt](https://github.com/numb95/WeLoveIt/raw/master/images/Apple-Devices-Preview.png)
 
-## [Demo Site](https://hugoloveit.com/)
+## [Demo Site](https://hugoWeLoveIt.com/)
 
-To see this theme in action, here is a live [demo site](https://hugoloveit.com/) which is rendered with **LoveIt** theme.
+To see this theme in action, here is a live [demo site](https://hugoWeLoveIt.com/) which is rendered with **WeLoveIt** theme.
 
-## Why choose LoveIt
+## Why choose WeLoveIt
 
-Compared to the original LeaveIt theme and the KeepIt theme, the LoveIt theme has the following modifications.
+Compared to the original LeaveIt theme and the KeepIt theme, the WeLoveIt theme has the following modifications.
 
 * Custom **Header**
 * Custom **CSS Style**
@@ -50,12 +50,12 @@ Compared to the original LeaveIt theme and the KeepIt theme, the LoveIt theme ha
 * ...
 
 In short,
-if you prefer the design language and freedom of the LoveIt theme,
+if you prefer the design language and freedom of the WeLoveIt theme,
 if you want to use the extended Font Awesome icons conveniently,
 if you want to embed mathematical formulas, flowcharts, music or Bilibili videos in your posts,
-the LoveIt theme may be more suitable for you.
+the WeLoveIt theme may be more suitable for you.
 
-I hope you will LoveIt ❤️!
+I hope you will WeLoveIt ❤️!
 
 ## Features
 
@@ -120,7 +120,7 @@ I hope you will LoveIt ❤️!
 * **Person** shortcode
 * ...
 
-## [Documentation](https://hugoloveit.com/categories/documentation/)
+## [Documentation](https://hugoWeLoveIt.com/categories/documentation/)
 
 Build Documentation Locally:
 
@@ -130,7 +130,7 @@ hugo server --source=exampleSite
 
 ## Multilingual and i18n
 
-LoveIt supports the following languages:
+WeLoveIt supports the following languages:
 
 * English
 * Simplified Chinese
@@ -153,19 +153,19 @@ LoveIt supports the following languages:
 * Turkish
 * Korean
 * Hindi
-* [Contribute with a new language](https://github.com/dillonzq/LoveIt/pulls)
+* [Contribute with a new language](https://github.com/numb95/WeLoveIt/pulls)
 
-[Languages Compatibility](https://hugoloveit.com/theme-documentation-basics/#language-compatibility)
+[Languages Compatibility](https://hugoWeLoveIt.com/theme-documentation-basics/#language-compatibility)
 
-## [Roadmap](https://github.com/dillonzq/LoveIt/projects/1)
+## [Roadmap](https://github.com/numb95/WeLoveIt/projects/1)
 
 ## Questions, ideas, bugs, pull requests
 
-All feedback is welcome! Head over to the [issue tracker](https://github.com/dillonzq/LoveIt/issues).
+All feedback is welcome! Head over to the [issue tracker](https://github.com/numb95/WeLoveIt/issues).
 
 ## License
 
-LoveIt is licensed under the **MIT** license. Check the [LICENSE file](https://github.com/dillonzq/LoveIt/blob/master/LICENSE) for details.
+WeLoveIt is licensed under the **MIT** license. Check the [LICENSE file](https://github.com/numb95/WeLoveIt/blob/master/LICENSE) for details.
 
 ## Special Thanks
 
@@ -205,11 +205,11 @@ Thanks to the authors of following resources included in the theme:
 If you enjoy the theme, please consider buying me a coffee ☕️.
 
 * [PayPal](https://paypal.me/dillonzq)
-* [Alipay](https://github.com/dillonzq/LoveIt/raw/master/images/Alipay.jpg)
-* [Wechat](https://github.com/dillonzq/LoveIt/raw/master/images/Wechat.jpg)
+* [Alipay](https://github.com/numb95/WeLoveIt/raw/master/images/Alipay.jpg)
+* [Wechat](https://github.com/numb95/WeLoveIt/raw/master/images/Wechat.jpg)
 
 Thanks! ❤️
 
 ## Stargazers over time
 
-[![Stargazers over time](https://starchart.cc/dillonzq/LoveIt.svg)](https://starchart.cc/dillonzq/LoveIt)
+[![Stargazers over time](https://starchart.cc/dillonzq/WeLoveIt.svg)](https://starchart.cc/dillonzq/WeLoveIt)

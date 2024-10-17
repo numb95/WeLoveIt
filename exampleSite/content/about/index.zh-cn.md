@@ -1,8 +1,8 @@
 ---
-title: "关于 LoveIt"
+title: "关于 WeLoveIt"
 date: 2019-08-02T11:04:49+08:00
 draft: false
-description: "关于 LoveIt"
+description: "关于 WeLoveIt"
 images: ["/Apple-Devices-Preview.png"]
 
 lightgallery: true
@@ -12,18 +12,18 @@ math:
 ---
 
 {{< style "img { height: 1.25rem; }" >}}
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/dillonzq/LoveIt?style=flat-square)](https://github.com/dillonzq/LoveIt/releases)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/dillonzq/WeLoveIt?style=flat-square)](https://github.com/numb95/WeLoveIt/releases)
 [![Hugo](https://img.shields.io/badge/Hugo-%5E0.62.0-ff4088?style=flat-square&logo=hugo)](https://gohugo.io/)
-[![License](https://img.shields.io/github/license/dillonzq/LoveIt?style=flat-square)](https://github.com/dillonzq/LoveIt/blob/master/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/dillonzq/LoveIt?style=social)](https://github.com/dillonzq/LoveIt)
-[![GitHub forks](https://img.shields.io/github/forks/dillonzq/LoveIt?style=social)](https://github.com/dillonzq/LoveIt/fork)
+[![License](https://img.shields.io/github/license/dillonzq/WeLoveIt?style=flat-square)](https://github.com/numb95/WeLoveIt/blob/master/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/dillonzq/WeLoveIt?style=social)](https://github.com/numb95/WeLoveIt)
+[![GitHub forks](https://img.shields.io/github/forks/dillonzq/WeLoveIt?style=social)](https://github.com/numb95/WeLoveIt/fork)
 {{< /style >}}
 
-> [:(far fa-kiss-wink-heart fa-fw): LoveIt](https://github.com/dillonzq/LoveIt) 是一个由 {{< person "https://dillonzq.com/" Dillon "LoveIt 主题的作者" "/Dillon.png" >}} 开发的**简洁**、**优雅**且**高效**的 [Hugo](https://gohugo.io/) 博客主题。
+> [:(far fa-kiss-wink-heart fa-fw): WeLoveIt](https://github.com/numb95/WeLoveIt) 是一个由 {{< person "https://dillonzq.com/" Dillon "WeLoveIt 主题的作者" "/Dillon.png" >}} 开发的**简洁**、**优雅**且**高效**的 [Hugo](https://gohugo.io/) 博客主题。
 >
 > 它的原型基于 [LeaveIt 主题](https://github.com/liuzc/LeaveIt) 和 [KeepIt 主题](https://github.com/Fastbyte01/KeepIt)。
 
-![Hugo 主题 LoveIt](/images/Apple-Devices-Preview.png "Hugo 主题 LoveIt")
+![Hugo 主题 WeLoveIt](/images/Apple-Devices-Preview.png "Hugo 主题 WeLoveIt")
 
 ## 特性
 
@@ -90,13 +90,13 @@ math:
 
 ## 许可协议
 
-LoveIt 根据 **MIT** 许可协议授权。
+WeLoveIt 根据 **MIT** 许可协议授权。
 
-更多信息请查看 [LICENSE 文件](https://github.com/dillonzq/LoveIt/blob/master/LICENSE)。
+更多信息请查看 [LICENSE 文件](https://github.com/numb95/WeLoveIt/blob/master/LICENSE)。
 
 ## 特别感谢
 
-LoveIt 主题中用到了以下项目，感谢它们的作者：
+WeLoveIt 主题中用到了以下项目，感谢它们的作者：
 
 * [normalize.css](https://github.com/necolas/normalize.css)
 * [Font Awesome](https://fontawesome.com/)

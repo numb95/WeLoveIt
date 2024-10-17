@@ -6,7 +6,7 @@ lastmod: 2020-03-06T21:40:32+08:00
 draft: false
 author: "Dillon"
 authorLink: "https://dillonzq.com"
-description: "探索 Hugo - LoveIt 主题的全部内容和背后的核心概念."
+description: "探索 Hugo - WeLoveIt 主题的全部内容和背后的核心概念."
 images: []
 resources:
 - name: "featured-image"
@@ -21,7 +21,7 @@ toc:
   auto: false
 ---
 
-探索 Hugo - **LoveIt** 主题的全部内容和背后的核心概念.
+探索 Hugo - **WeLoveIt** 主题的全部内容和背后的核心概念.
 
 <!--more-->
 
@@ -54,32 +54,32 @@ cd my_website
 
 ### 2.2 安装主题
 
-**LoveIt** 主题的仓库是: [https://github.com/dillonzq/LoveIt](https://github.com/dillonzq/LoveIt).
+**WeLoveIt** 主题的仓库是: [https://github.com/numb95/WeLoveIt](https://github.com/numb95/WeLoveIt).
 
-你可以下载主题的 [最新版本 :(far fa-file-archive fa-fw): .zip 文件](https://github.com/dillonzq/LoveIt/releases) 并且解压放到 `themes` 目录.
+你可以下载主题的 [最新版本 :(far fa-file-archive fa-fw): .zip 文件](https://github.com/numb95/WeLoveIt/releases) 并且解压放到 `themes` 目录.
 
 另外, 也可以直接把这个主题克隆到 `themes` 目录:
 
 ```bash
-git clone https://github.com/dillonzq/LoveIt.git themes/LoveIt
+git clone https://github.com/numb95/WeLoveIt.git themes/WeLoveIt
 ```
 
 或者, 初始化你的项目目录为 git 仓库, 并且把主题仓库作为你的网站目录的子模块:
 
 ```bash
 git init
-git submodule add https://github.com/dillonzq/LoveIt.git themes/LoveIt
+git submodule add https://github.com/numb95/WeLoveIt.git themes/WeLoveIt
 ```
 
 ### 2.3 基础配置 {#basic-configuration}
 
-以下是 LoveIt 主题的基本配置:
+以下是 WeLoveIt 主题的基本配置:
 
 ```toml
 baseURL = "http://example.org/"
 
 # 更改使用 Hugo 构建网站时使用的默认主题
-theme = "LoveIt"
+theme = "WeLoveIt"
 
 # 网站标题
 title = "我的全新 Hugo 网站"
@@ -131,7 +131,7 @@ hasCJKLanguage = true
 [markup]
   # 语法高亮设置 (https://gohugo.io/content-management/syntax-highlighting)
   [markup.highlight]
-    # false 是必要的设置 (https://github.com/dillonzq/LoveIt/issues/158)
+    # false 是必要的设置 (https://github.com/numb95/WeLoveIt/issues/158)
     noClasses = false
 ```
 
@@ -197,7 +197,7 @@ hugo
 
 ### 3.1 网站配置 {#site-configuration}
 
-除了 [Hugo 全局配置](https://gohugo.io/overview/configuration/) 和 [菜单配置](#basic-configuration) 之外, **LoveIt** 主题还允许您在网站配置中定义以下参数 (这是一个示例 `config.toml`, 其内容为默认值).
+除了 [Hugo 全局配置](https://gohugo.io/overview/configuration/) 和 [菜单配置](#basic-configuration) 之外, **WeLoveIt** 主题还允许您在网站配置中定义以下参数 (这是一个示例 `config.toml`, 其内容为默认值).
 
 请打开下面的代码块查看完整的示例配置 :(far fa-hand-point-down fa-fw)::
 
@@ -205,7 +205,7 @@ hugo
 baseURL = "http://example.org/"
 
 # 更改使用 Hugo 构建网站时使用的默认主题
-theme = "LoveIt"
+theme = "WeLoveIt"
 
 # 网站标题
 title = "我的全新 Hugo 网站"
@@ -611,7 +611,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         serverURLs = ""
         # {{< version 0.2.6 >}} emoji 数据文件名称, 默认是 "google.yml"
         # ["apple.yml", "google.yml", "facebook.yml", "twitter.yml"]
-        # 位于 "themes/LoveIt/assets/lib/valine/emoji/" 目录
+        # 位于 "themes/WeWeLoveIt/assets/lib/valine/emoji/" 目录
         # 可以在你的项目下相同路径存放你自己的数据文件:
         # "assets/lib/valine/emoji/"
         emoji = ""
@@ -742,7 +742,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   [params.cdn]
     # CDN 数据文件名称, 默认不启用
     # ["jsdelivr.yml"]
-    # 位于 "themes/LoveIt/assets/data/cdn/" 目录
+    # 位于 "themes/WeLoveIt/assets/data/cdn/" 目录
     # 可以在你的项目下相同路径存放你自己的数据文件:
     # "assets/data/cdn/"
     data = ""
@@ -763,7 +763,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     lineNos = true
     lineNumbersInTable = true
     # false 是必要的设置
-    # ({{< link "https://github.com/dillonzq/LoveIt/issues/158" >}})
+    # ({{< link "https://github.com/numb95/WeLoveIt/issues/158" >}})
     noClasses = false
   # Goldmark 是 Hugo 0.60 以来的默认 Markdown 解析库
   [markup.goldmark]
@@ -849,7 +849,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   data = ""
 ````
 
-默认的 CDN 数据文件位于 `themes/LoveIt/assets/data/cdn/` 目录.
+默认的 CDN 数据文件位于 `themes/WeLoveIt/assets/data/cdn/` 目录.
 可以在你的项目下相同路径存放你自己的数据文件: `assets/data/cdn/`.
 {{< /admonition >}}
 
@@ -880,7 +880,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     title = "Mastodon"
 ```
 
-所有支持的社交链接的默认数据位于 `themes/LoveIt/assets/data/social.yaml`.
+所有支持的社交链接的默认数据位于 `themes/WeLoveIt/assets/data/social.yaml`.
 你可以参考它来配置你的社交链接.
 {{< /admonition >}}
 
@@ -909,11 +909,11 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 Hugo **extended** 版本对于自定义样式是必需的.
 {{< /admonition >}}
 
-通过定义自定义 `.scss` 样式文件, **LoveIt** 主题支持可配置的样式.
+通过定义自定义 `.scss` 样式文件, **WeLoveIt** 主题支持可配置的样式.
 
 包含自定义 `.scss` 样式文件的目录相对于 **你的项目根目录** 的路径为 `assets/css`.
 
-在 `assets/css/_override.scss` 中, 你可以覆盖 `themes/LoveIt/assets/css/_variables.scss` 中的变量以自定义样式.
+在 `assets/css/_override.scss` 中, 你可以覆盖 `themes/WeLoveIt/assets/css/_variables.scss` 中的变量以自定义样式.
 
 这是一个例子:
 
@@ -926,7 +926,7 @@ $code-font-family: Fira Mono, Source Code Pro, Menlo, Consolas, Monaco, monospac
 
 ## 4 多语言和 i18n
 
-**LoveIt** 主题完全兼容 Hugo 的多语言模式, 并且支持在网页上切换语言.
+**WeLoveIt** 主题完全兼容 Hugo 的多语言模式, 并且支持在网页上切换语言.
 
 ![语言切换](language-switch.gif "语言切换")
 
@@ -1082,15 +1082,15 @@ defaultContentLanguage = "zh-cn"
 翻译字符串用于在主题中使用的常见默认值.
 目前提供[一些语言](#language-compatibility)的翻译, 但你可能自定义其他语言或覆盖默认值.
 
-要覆盖默认值, 请在你项目的 i18n 目录 `i18n/<languageCode>.toml` 中创建一个新文件，并从 `themes/LoveIt/i18n/en.toml` 中获得提示.
+要覆盖默认值, 请在你项目的 i18n 目录 `i18n/<languageCode>.toml` 中创建一个新文件，并从 `themes/WeLoveIt/i18n/en.toml` 中获得提示.
 
-另外, 由于你的翻译可能会帮助到其他人, 请花点时间通过 [:(fas fa-code-branch fa-fw): 创建一个 PR](https://github.com/dillonzq/LoveIt/pulls) 来贡献主题翻译, 谢谢!
+另外, 由于你的翻译可能会帮助到其他人, 请花点时间通过 [:(fas fa-code-branch fa-fw): 创建一个 PR](https://github.com/numb95/WeLoveIt/pulls) 来贡献主题翻译, 谢谢!
 
 ## 5 搜索
 
 {{< version 0.2.0 >}}
 
-基于 [Lunr.js](https://lunrjs.com/) 或 [algolia](https://www.algolia.com/), **LoveIt** 主题支持搜索功能.
+基于 [Lunr.js](https://lunrjs.com/) 或 [algolia](https://www.algolia.com/), **WeLoveIt** 主题支持搜索功能.
 
 ### 5.1 输出配置
 
