@@ -6,12 +6,11 @@
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=dillonzq_WeLoveIt&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=dillonzq_WeLoveIt)
 [![CircleCI](https://circleci.com/gh/dillonzq/WeLoveIt/tree/master.svg?style=svg)](https://circleci.com/gh/dillonzq/WeLoveIt/tree/master)
 
-English README | [简体中文说明](https://github.com/numb95/WeLoveIt/blob/master/README.zh-cn.md)
 
 > **WeLoveIt** is a **clean**, **elegant** but **advanced** blog theme for [Hugo](https://gohugo.io/).
 
 It is based on the original [LeaveIt Theme](https://github.com/liuzc/LeaveIt)
-and [KeepIt Theme](https://github.com/Fastbyte01/KeepIt and  [LoveIt Theme](https://github.com/dillonzq/LoveIt)
+and [KeepIt Theme](https://github.com/Fastbyte01/KeepIt) and  [LoveIt Theme](https://github.com/dillonzq/LoveIt)
 
 Since the four themes have a similar look, if you have questions about their differences,
 read [Why choose WeLoveIt](#why-choose-WeLoveIt) so that you can choose the one that works best for you.
