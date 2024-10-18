@@ -27,6 +27,7 @@ Compared to the original LeaveIt theme and the KeepIt theme, the WeLoveIt theme 
 
 * Custom **Header**
 * Native **RTL** Support
+* [Cookie consent add-on](https://hugocodex.org/add-ons/cookie-consent/#manage-consent)
 * Custom **CSS Style**
 * A new **home page**, compatible with the latest version of Hugo
 * A lot of **style detail adjustments,** including color, font size, margins, code preview style

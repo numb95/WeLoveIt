@@ -44,5 +44,10 @@
 
         {{- /* Load JavaScript scripts and CSS */ -}}
         {{- partial "assets.html" . -}}
+        {{- if eq .Site.Params.consent.enabled true -}}
+
+        {{ partial "consent.html" . }}
+    
+        {{- end -}}    
     </body>
 </html>
